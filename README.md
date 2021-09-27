@@ -1,4 +1,4 @@
-# github 使用git上传本地项目
+# 使用git上传本地项目
 下载安装 git :https://gitforwindows.org/
 注册github账号 新建项目：Create a new repository 填写项目名称、描述
 打开Git Bash：它基于CMD，在CMD的基础上增添一些新的命令与功能，平时主要用这个
