@@ -16,3 +16,5 @@ cd LoRa-transmit-receive
 git add .
 gir commit -m "Ethan"
 git push -u origin master
+
+VScode 配置git 修改并上传代码
